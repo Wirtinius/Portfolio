@@ -47,6 +47,9 @@ a {
 }
 
 /* Info */
+.navigation li {
+    list-style-type: 😆;
+}
 .navigation a{
     text-decoration: none;
 }
@@ -93,7 +96,7 @@ a {
 
 }
 
-.date, .image {
+.date{
     margin-left: 2%;
     display: inline-block;
     width: 30%;
@@ -136,12 +139,23 @@ a {
     body {
         margin: 5% 5%;
     }
+
+    .title-main {
+        margin: 10% 0 2% 0;
+    }
+    #title-main {
+        margin-bottom: 5%;
+    }
     
     .social-media {
         margin-top: 5%;
     }
     .navigation {
         display: none;
+    }
+
+    .date {
+        margin: 0;
     }
 
     header {
@@ -180,6 +194,10 @@ a {
     .navigation {
         visibility: hidden;
     }
+    .title-main {
+        margin: 25% 0 0 0;
+    }
+
     body {
       margin: 5% 5%;
     }
@@ -201,7 +219,7 @@ a {
       display: block;
     }
   
-    .date, .image {
+    .date {
       display: block;
       margin-left: 0;
       text-align: center;
@@ -218,7 +236,7 @@ a {
   
     .skills li {
       margin-bottom: 5px;
-      margin-right: 0;
+      margin-right: 0 1%;
       
     }
 }
