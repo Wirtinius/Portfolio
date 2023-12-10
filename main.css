@@ -46,6 +46,9 @@ a {
     color: white;
 }
 
+.title-main {
+    display: none;
+}
 /* Info */
 .navigation li {
     list-style-type: 😆;
@@ -142,6 +145,7 @@ a {
 
     .title-main {
         margin: 10% 0 2% 0;
+        display: block;
     }
     #title-main {
         margin-bottom: 5%;
@@ -196,6 +200,8 @@ a {
     }
     .title-main {
         margin: 25% 0 0 0;
+        display: block;
+
     }
 
     body {
