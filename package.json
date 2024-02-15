@@ -2,7 +2,7 @@
   "name": "3dfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gitname.github.io/Portfolio/",
+  "homepage": "https://wirtinius.github.io/Portfolio/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
