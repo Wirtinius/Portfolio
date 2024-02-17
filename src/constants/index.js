@@ -126,7 +126,7 @@ const experiences = [
     company_name: "Artel",
     icon: color,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Nov 2023 - Jan 2024",
     points: [
       "Developed Backend architecture, implementing Django for authentication and authorization with JWT tokens. Integrated React.js for Frontend development to create a seamless user experience.",
       "Designed and executed CRUD operations for portfolios, ensuring validation rules and conducting unit tests.",
@@ -138,7 +138,7 @@ const experiences = [
     company_name: "Innodev Technologies",
     icon: innodev,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "July 2023 - Sep 2024",
     points: [
       "Engineered a robust server application using Django, adhering to REST architectural principles for a special event with over 3000 users.",
       "Implemented trained modules to facilitate facial swaps and enhance photos.",
@@ -150,7 +150,7 @@ const experiences = [
     company_name: "KMG-Kumkol",
     icon: KMG,
     iconBg: "white",
-    date: "Jan 2022 - Jan 2023",
+    date: "April 2023 - July 2023",
     points: [
       "Contributed to the development of a customer-utilized platform, utilizing Docker and Docker Compose, along with configuring Postgresql and writing simple APIs.",
       "Resolved critical bugs in the application related to sending information via Excel, employing the tkinter and openpyxl libraries, and utilizing the Masonite framework to meet project requirements.",
